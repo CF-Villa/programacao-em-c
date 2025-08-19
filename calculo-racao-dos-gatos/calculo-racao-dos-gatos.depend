@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755530090 source:c:\users\usuario\documents\calculo-racao-dos-gatos\calculo-racao-dos-gatos\main.c
+	<stdio.h>
+	<stdlib.h>
+
